@@ -246,7 +246,7 @@ pip install -r requirements.txt
 
 ## 👤 Author
 
-**Puvaneshvaran K**
+**SANDHIYA A**
 Data Science Intern — RBL Bank Credit Risk Project
 March 2026
 
